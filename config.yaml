@@ -1,0 +1,9 @@
+oss:
+  endpoint: "your-endpoint"
+  accesskey:
+    id: "your-accesskey-id"
+    secret: "your-accesskey-secret"
+  bucket:
+    name: "your-bucket-name"
+  objectname:
+    basedir: "oss://your-bucket-name/your/basedir"
